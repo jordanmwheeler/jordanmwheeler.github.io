@@ -649,10 +649,10 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
     
     <item>
       <title></title>
-      <link>/work/shinyapps/lmdiamondreportapp/</link>
+      <link>/work/shinyapps/lm_diamond_report_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/lmdiamondreportapp/</guid>
+      <guid>/work/shinyapps/lm_diamond_report_app/</guid>
       <description>
 
 
@@ -675,10 +675,10 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
     
     <item>
       <title></title>
-      <link>/work/shinyapps/pacecalculatorapp/</link>
+      <link>/work/shinyapps/pace_calculator_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/pacecalculatorapp/</guid>
+      <guid>/work/shinyapps/pace_calculator_app/</guid>
       <description>
 
 
@@ -1610,10 +1610,10 @@ Presentations:
 &lt;hr style=&#34;border-color: #666666;&#34;&gt;
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;LMDiamondReportApp/&#34;&gt;&lt;img src=&#34;thumbnails/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;lm_diamond_report_app/&#34;&gt;&lt;img src=&#34;thumbnails/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
-Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;PaceCalculatorApp/&#34;&gt;&lt;img src=&#34;thumbnails/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;pace_calculator_app/&#34;&gt;&lt;img src=&#34;thumbnails/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;h6 style=&#34;clear: both;&#34;&gt;
 </description>
