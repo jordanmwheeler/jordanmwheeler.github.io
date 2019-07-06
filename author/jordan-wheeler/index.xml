@@ -1366,13 +1366,13 @@ Machine Learning Competitions (Presentations):
 &lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;Presentations/ContestOne_ReturnClassification/&#34; target=&#34;_blank&#34;&gt;Contest One (Group): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(First Place out of Nine)&lt;/b&gt;
+&lt;a href=&#34;Presentations/contestone_returnclassification/&#34; target=&#34;_blank&#34;&gt;Contest One (Group): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(First Place out of Nine)&lt;/b&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;Presentations/ContestTwo_ImageClassification/&#34; target=&#34;_blank&#34;&gt;Contest Two (Group): Plant Image Classification and Deep Learning&lt;/a&gt; &lt;b&gt;(Third Place out of Nine)&lt;/b&gt;
+&lt;a href=&#34;Presentations/contesttwo_imageclassification/&#34; target=&#34;_blank&#34;&gt;Contest Two (Group): Plant Image Classification and Deep Learning&lt;/a&gt; &lt;b&gt;(Third Place out of Nine)&lt;/b&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;Presentations/ContestThree_ReturnClassification/&#34; target=&#34;_blank&#34;&gt;Contest Three (Individual - Final): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(Second Place Place out of Twenty-Nine)&lt;/b&gt;
+&lt;a href=&#34;Presentations/contestthree_returnclassification/&#34; target=&#34;_blank&#34;&gt;Contest Three (Individual - Final): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(Second Place Place out of Twenty-Nine)&lt;/b&gt;
 &lt;/li&gt;
 &lt;br/&gt;
 &lt;/ul&gt;
@@ -1383,7 +1383,7 @@ Projects:
 &lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;Papers/FinalP/&#34; target=&#34;_blank&#34;&gt;Advanced Statistics Integrated Final Project (Prestige Data Set)&lt;/a&gt;
+&lt;a href=&#34;Papers/advstatfinalproject/&#34; target=&#34;_blank&#34;&gt;Advanced Statistics Integrated Final Project (Prestige Data Set)&lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Bayesian Statistics Final (UEFA Championship League Predictions)&lt;/a&gt;
@@ -1419,7 +1419,7 @@ Presentations:
 &lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;Presentations/CancerGene_FinalPresentation/&#34; target=&#34;_blank&#34;&gt;Data Science Final Presentation: A Pan-Cancer Analysis of Gene Expression Data Across 32 Tissues&lt;/a&gt;
+&lt;a href=&#34;Presentations/cancergene_finalpresentation/&#34; target=&#34;_blank&#34;&gt;Data Science Final Presentation: A Pan-Cancer Analysis of Gene Expression Data Across 32 Tissues&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/ul&gt;
@@ -1615,6 +1615,7 @@ Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;lm_diamond_report_ap
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
 Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;pace_calculator_app/&#34;&gt;&lt;img src=&#34;thumbnails/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
+blogd
 &lt;h6 style=&#34;clear: both;&#34;&gt;
 </description>
     </item>
