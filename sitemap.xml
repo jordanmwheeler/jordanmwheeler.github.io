@@ -118,11 +118,19 @@
   </url>
   
   <url>
+    <loc>/work/shinyapps/forecastapp/</loc>
+  </url>
+  
+  <url>
     <loc>/work/shinyapps/lmdiamondreportapp/</loc>
   </url>
   
   <url>
     <loc>/work/shinyapps/pacecalculatorapp/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/shinyapps/singleiccapp/</loc>
   </url>
   
   <url>
