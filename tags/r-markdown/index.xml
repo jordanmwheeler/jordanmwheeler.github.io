@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown on Jordan M. Wheeler</title>
-    <link>/tags/r-markdown/</link>
+    <link>http://jordanmwheeler.com/tags/r-markdown/</link>
     <description>Recent content in R Markdown on Jordan M. Wheeler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://jordanmwheeler.com/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>/2019/06/27/hello-world-test/</link>
+      <link>http://jordanmwheeler.com/2019/06/27/hello-world-test/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/06/27/hello-world-test/</guid>
+      <guid>http://jordanmwheeler.com/2019/06/27/hello-world-test/</guid>
       <description>
 
 
@@ -27,16 +27,16 @@ x&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1]  4  8 12 16&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Test histogram&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(rnorm(1000))&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2019-06-27-test-post1/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://jordanmwheeler.com/post/2019-06-27-test-post1/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Test Post Two</title>
-      <link>/2015/06/27/test-post-two/</link>
+      <link>http://jordanmwheeler.com/2015/06/27/test-post-two/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/06/27/test-post-two/</guid>
+      <guid>http://jordanmwheeler.com/2015/06/27/test-post-two/</guid>
       <description>
 
 
@@ -73,7 +73,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://jordanmwheeler.com/post/2015-07-23-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Jordan M. Wheeler</title>
-    <link>/work/</link>
+    <link>http://jordanmwheeler.com/work/</link>
     <description>Recent content in Works on Jordan M. Wheeler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://jordanmwheeler.com/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>School Work</title>
-      <link>/work/school-work/</link>
+      <link>http://jordanmwheeler.com/work/school-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/school-work/</guid>
+      <guid>http://jordanmwheeler.com/work/school-work/</guid>
       <description>
 
 
@@ -299,10 +299,10 @@ Presentations:
     
     <item>
       <title>Shiny Applications</title>
-      <link>/work/shinyapps/</link>
+      <link>http://jordanmwheeler.com/work/shinyapps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/</guid>
+      <guid>http://jordanmwheeler.com/work/shinyapps/</guid>
       <description>
 
 
@@ -315,7 +315,7 @@ Item Response Theory Applications:
 &lt;/h2&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
+Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
 &lt;br/&gt;
@@ -326,7 +326,7 @@ Master’s Project Application:
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
+NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
 &lt;!-- &lt;div&gt; --&gt;
@@ -340,10 +340,10 @@ Old Applications (First App’s I Created):
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
-Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;div/&gt;
 &lt;p&gt;&lt;br/&gt;

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shiny Applications on Jordan M. Wheeler</title>
-    <link>/work/shinyapps/</link>
+    <link>http://jordanmwheeler.com/work/shinyapps/</link>
     <description>Recent content in Shiny Applications on Jordan M. Wheeler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/work/shinyapps/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://jordanmwheeler.com/work/shinyapps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/work/shinyapps/forecastapp/</link>
+      <link>http://jordanmwheeler.com/work/shinyapps/forecastapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/forecastapp/</guid>
+      <guid>http://jordanmwheeler.com/work/shinyapps/forecastapp/</guid>
       <description>
 
 
@@ -39,10 +39,10 @@
     
     <item>
       <title></title>
-      <link>/work/shinyapps/lmdiamondreportapp/</link>
+      <link>http://jordanmwheeler.com/work/shinyapps/lmdiamondreportapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/lmdiamondreportapp/</guid>
+      <guid>http://jordanmwheeler.com/work/shinyapps/lmdiamondreportapp/</guid>
       <description>
 
 
@@ -66,10 +66,10 @@
     
     <item>
       <title></title>
-      <link>/work/shinyapps/pacecalculatorapp/</link>
+      <link>http://jordanmwheeler.com/work/shinyapps/pacecalculatorapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/pacecalculatorapp/</guid>
+      <guid>http://jordanmwheeler.com/work/shinyapps/pacecalculatorapp/</guid>
       <description>
 
 
@@ -94,10 +94,10 @@
     
     <item>
       <title></title>
-      <link>/work/shinyapps/singleiccapp/</link>
+      <link>http://jordanmwheeler.com/work/shinyapps/singleiccapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/shinyapps/singleiccapp/</guid>
+      <guid>http://jordanmwheeler.com/work/shinyapps/singleiccapp/</guid>
       <description>
 
 

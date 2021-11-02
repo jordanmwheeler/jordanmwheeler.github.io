@@ -3,153 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/</loc>
+    <loc>http://jordanmwheeler.com/author/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://jordanmwheeler.com/post/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://jordanmwheeler.com/categories/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>http://jordanmwheeler.com/tags/deep-learning/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://jordanmwheeler.com/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jwheeler/</loc>
+    <loc>http://jordanmwheeler.com/author/jwheeler/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>http://jordanmwheeler.com/tags/plot/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://jordanmwheeler.com/categories/r/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://jordanmwheeler.com/tags/r-markdown/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://jordanmwheeler.com/tags/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/06/27/hello-world-test/</loc>
+    <loc>http://jordanmwheeler.com/2019/06/27/hello-world-test/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2015/06/27/test-post-two/</loc>
+    <loc>http://jordanmwheeler.com/2015/06/27/test-post-two/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>http://jordanmwheeler.com/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/authors/jwheeler/</loc>
+    <loc>http://jordanmwheeler.com/authors/jwheeler/</loc>
   </url>
   
   <url>
-    <loc>/resume-cv/cv/</loc>
+    <loc>http://jordanmwheeler.com/resume-cv/cv/</loc>
   </url>
   
   <url>
-    <loc>/resume-cv/resume/</loc>
+    <loc>http://jordanmwheeler.com/resume-cv/resume/</loc>
   </url>
   
   <url>
-    <loc>/work/school-work/papers/finalp/</loc>
-    <priority>0</priority>
+    <loc>http://jordanmwheeler.com/authors/</loc>
   </url>
   
   <url>
-    <loc>/work/school-work/presentations/cancergene_finalpresentation/</loc>
-    <priority>0</priority>
+    <loc>http://jordanmwheeler.com/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/work/school-work/presentations/contestone_returnclassification/</loc>
-    <priority>0</priority>
+    <loc>http://jordanmwheeler.com/research/</loc>
   </url>
   
   <url>
-    <loc>/work/school-work/presentations/contestthree_returnclassification/</loc>
-    <priority>0</priority>
+    <loc>http://jordanmwheeler.com/resume-cv/</loc>
   </url>
   
   <url>
-    <loc>/work/school-work/presentations/contesttwo_imageclassification/</loc>
-    <priority>0</priority>
+    <loc>http://jordanmwheeler.com/running/</loc>
   </url>
   
   <url>
-    <loc>/work/shinyapps/forecastapp/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/shinyapps/lmdiamondreportapp/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/shinyapps/pacecalculatorapp/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/shinyapps/singleiccapp/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/resume-cv/</loc>
-  </url>
-  
-  <url>
-    <loc>/running/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/school-work/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/shinyapps/</loc>
-  </url>
-  
-  <url>
-    <loc>/work/</loc>
+    <loc>http://jordanmwheeler.com/shinyapps/</loc>
   </url>
   
 </urlset>

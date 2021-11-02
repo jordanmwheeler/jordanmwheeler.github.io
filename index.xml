@@ -2,32 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jordan M. Wheeler</title>
-    <link>/</link>
+    <link>http://jordanmwheeler.com/</link>
     <description>Recent content on Jordan M. Wheeler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://jordanmwheeler.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog Posts</title>
-      <link>/post/</link>
+      <link>http://jordanmwheeler.com/post/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>http://jordanmwheeler.com/post/</guid>
       <description>&lt;hr style=&#34;border-color: #666666;&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -41,21 +31,125 @@
     </item>
     
     <item>
-      <title>Resume-cvs</title>
-      <link>/resume-cv/</link>
+      <title>Research and Publications</title>
+      <link>http://jordanmwheeler.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resume-cv/</guid>
+      <guid>http://jordanmwheeler.com/research/</guid>
+      <description>
+&lt;script src=&#34;http://jordanmwheeler.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Research&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Research Interests
+&lt;/h3&gt;
+&lt;/u&gt;
+&lt;ul&gt;
+&lt;li&gt;
+psychometric modeling
+&lt;/li&gt;
+&lt;li&gt;
+topic models
+&lt;/li&gt;
+&lt;li&gt;
+process data
+&lt;/li&gt;
+&lt;li&gt;
+estimation procedures
+&lt;/li&gt;
+&lt;li&gt;
+Bayesian modeling
+&lt;/li&gt;
+&lt;li&gt;
+rater-mediated assessments
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Peer Reviewed Journal Articles
+&lt;/h3&gt;
+&lt;/u&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Engelhard, G., &amp;amp; Wang, J. (in press) Exploring Rater Accuracy Using Unfolding Models Combined with Topic Models: Incorporating Supervised Latent Dirichlet Allocation. &lt;i&gt;Measurement: Interdisciplinary Research and Perspectives&lt;/i&gt;.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Conference Proceedings
+&lt;/h3&gt;
+&lt;/u&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Cohen, A. S., Xiong, J., Lee, J., &amp;amp; Choi, H.-J. (2021) &lt;a href=&#34;https://link.springer.com/content/pdf/10.1007%2F978-3-030-74772-5_24.pdf&#34; target=&#34;_blank&#34;&gt;Sample Size for Latent Dirichlet Allocation of Constructed-Response Items.&lt;/a&gt; In Wiberg, M., Bockenholt, U., Gonzalez, J., Molenaar, D. &amp;amp; Kim, J.-S. (Editors) &lt;i&gt;Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society&lt;/i&gt;.
+&lt;/li&gt;
+&lt;li&gt;
+Xiong, J., &lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Lee, J., Choi, H.-J., &amp;amp; Cohen, A. S (2021) &lt;a href=&#34;https://link.springer.com/content/pdf/10.1007%2F978-3-030-74772-5_38.pdf&#34; target=&#34;_blank&#34;&gt;An Empirical Study of Developing Automated Scoring Engine using supervised Latent Dirichlet Allocation.&lt;/a&gt; In Wiberg, M., Bockenholt, U., Gonzalez, J., Molenaar, D. &amp;amp; Kim, J.-S. (Editors) &lt;i&gt;Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society&lt;/i&gt;.
+&lt;/li&gt;
+&lt;li&gt;
+Kim, S.-H., Duong, E., Mardones, C., Schellman, M., &lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Xiong, J., Zheng, G., Zor, S., &amp;amp; Cohen, A. S. (2021) &lt;a href=&#34;https://link.springer.com/content/pdf/10.1007%2F978-3-030-74772-5_28.pdf&#34; target=&#34;_blank&#34;&gt;Priors in Bayesian Estimation Under the Two-Parameter Logistic Model.&lt;/a&gt; In Wiberg, M., Bockenholt, U., Gonzalez, J., Molenaar, D. &amp;amp; Kim, J.-S. (Editors) &lt;i&gt;Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society&lt;/i&gt;.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Book Chapters
+&lt;/h3&gt;
+&lt;/u&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Shermis, M. D., Cohen, A. S., &amp;amp; &lt;b&gt;Wheeler, J. M.&lt;/b&gt; (under review). Test Administration and Scoring. &lt;i&gt;Educational Measurement&lt;/i&gt; (5th edition).
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Manuscripts In Preparation
+&lt;/h3&gt;
+&lt;/u&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Cohen, A. S., &amp;amp; Wang, S. (under review) Comparison of Latent Semantic Analysis and Latent Dirichlet Allocation in Educational Measurement.
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Raczynski, K., Cohen, A. S., &amp;amp; Engelhard, G. (under review) Using Topic Models to Understand Rater-Mediated Assessments.
+&lt;/li&gt;
+&lt;li&gt;
+Mardones, C., &lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Cohen, A. S., &amp;amp; Choi, H.-J. (submitted) Model Selection for Latent Dirichlet Allocation with Short Answers.
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Wheeler, J. M.,&lt;/b&gt; Wang, S., Tan, Y., &amp;amp; Cohen, A. S. (in preparation) Textual Data as Process Data: A new scoring procedure to improve ability estimation for mixed format assessments.
+&lt;/li&gt;
+&lt;li&gt;
+Xiong, J., Liu, Q., Wang, S., &lt;b&gt;Wheeler, J. M.,&lt;/b&gt; &amp;amp; Cohen, A. S. (in preparation) Machine Learning - Assisted Psychometrics: Principles, Challenges, and Applications.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume-cvs</title>
+      <link>http://jordanmwheeler.com/resume-cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jordanmwheeler.com/resume-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running</title>
-      <link>/running/</link>
+      <link>http://jordanmwheeler.com/running/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/running/</guid>
+      <guid>http://jordanmwheeler.com/running/</guid>
       <description>
+&lt;script src=&#34;http://jordanmwheeler.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
@@ -128,7 +222,7 @@ Nebraska Wesleyan University’s First-Year Outdoor 10,000 Meters record holder
 &lt;a href=&#34;http://www.gpacsports.com/article/3470.php#.Wya1Mi8-KL4&#34; target=&#34;_blank&#34;&gt;GPAC Cross Country Runner of the Year&lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
-GPAC Conference Indoor Track and Field Champion - 5,0000 Meters
+GPAC Conference Indoor Track and Field Champion - 5,000 Meters
 &lt;/li&gt;
 &lt;li&gt;
 Academic All-Conference Team - Cross Country
@@ -663,12 +757,61 @@ Place
     </item>
     
     <item>
-      <title>Works</title>
-      <link>/work/</link>
+      <title>Shiny Applications</title>
+      <link>http://jordanmwheeler.com/shinyapps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/</guid>
-      <description></description>
+      <guid>http://jordanmwheeler.com/shinyapps/</guid>
+      <description>
+&lt;script src=&#34;http://jordanmwheeler.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Shiny Applications&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;br&gt;
+&lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
+Master’s Project Application:
+&lt;/h2&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+NYSE Automated GARCH Forecasting&lt;br&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
+Item Response Theory Applications:
+&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+Item Characteristic Curve&lt;br&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div&gt; --&gt;
+&lt;!-- &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;NYSE Automatic Forecast:&lt;br&gt;&lt;br&gt;&lt;a href = &#34;forecastapp/&#34;&gt;&lt;img src=&#34;thumbnails/ForecastPhoto.JPG&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;&lt;/h6&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+&lt;h6 style=&#34;clear: both;&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;br&gt;
+&lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
+Old Applications (First Applications I Created):
+&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+Linear Model Report:&lt;br&gt;&lt;br&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
+Running and Pace Calculator:&lt;br&gt;&lt;br&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://jordanmwheeler.com/img/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;div/&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h6 style=&#34;clear: both;&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+</description>
     </item>
     
   </channel>
